@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /tmp/
+Sitemap: https://jujutsu-kaisen-manga-read.page.dev/sitemap.xml
